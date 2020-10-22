@@ -1,0 +1,51 @@
+.logo {
+    border-top: 4px solid #79e08770;
+    padding: 40px 0 22px 40px;
+    float: left;
+    margin-top: -10px;
+  }
+  .container {
+    margin: 0 135px;
+  }
+  .container_2 {
+    margin-top:120px;
+    padding-left: 50px;
+    padding-right: 30px;
+    width: 960px;
+  }
+  /*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+  }
+  .btn-alt {
+    border: 1px solid #dfe2e5;
+    padding: 10px 60px;
+  }
+  .col_parent {
+      margin-left:30px; 
+      margin-top: 40px;
+  }
+  .col {
+      display: inline-block;
+      width: 25%;
+      margin: 30px;
+  }
+   .col a {
+       display: block;
+       margin-bottom: 10px;
+   }
+   
+
+  .hero {
+    padding: 90px;
+    padding-left: 40px;
+    display: inline-flex;
+}
+
